@@ -3,6 +3,9 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
+    <h3>Your link to the <asp:HyperLink ID="HyperLink2" runat="server" Text="Galleryyyy" NavigateUrl="~/Gallery.aspx">Gallery</asp:HyperLink> page.</h3>
+
+    
     <address>
         Two Microsoft Way<br />
         Redmond, WA 98052-6399<br />
