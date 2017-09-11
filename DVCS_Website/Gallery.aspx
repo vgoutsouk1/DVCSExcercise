@@ -4,4 +4,11 @@
     <h2><%: Title %>.</h2>
     <h3>Your gallery page.</h3>
   
+
+    
+
+<asp:Image ID="Image2" runat="server" ImageUrl="~/images/asplogo-square.png" />
+
 </asp:Content>
+
+
